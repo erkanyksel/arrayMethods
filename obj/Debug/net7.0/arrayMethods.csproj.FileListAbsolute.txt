@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\bin\Debug\net7.0\arrayMethods.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\bin\Debug\net7.0\arrayMethods.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\bin\Debug\net7.0\arrayMethods.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\bin\Debug\net7.0\arrayMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\bin\Debug\net7.0\arrayMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\refint\arrayMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\arrayMethods\obj\Debug\net7.0\ref\arrayMethods.dll
